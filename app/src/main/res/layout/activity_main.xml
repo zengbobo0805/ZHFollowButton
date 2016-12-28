@@ -10,6 +10,11 @@
               android:paddingTop="@dimen/activity_vertical_margin"
               tools:context="com.zgzczw.zhfollowbutton.MainActivity">
 
+    <View
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:background="@drawable/layer_list_bord_color"/>
+
     <Button
         android:id="@+id/test_bt"
         android:layout_width="78dp"
